@@ -1,6 +1,6 @@
 
 
-
+print("ok")
 x=input("Please type in your name.")
 y=input("Please type in your birthday in the form dd/mm.")
 if y[3:5] == '01':
